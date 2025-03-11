@@ -2,5 +2,6 @@
 
 Hello world 
 it is frist commit file.
+it is second commit file.
 
 setting of git
